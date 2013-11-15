@@ -9,10 +9,3 @@ html {
 	background-image: none;
 
 }
-
-.entertainment > .btn {
-	border-radius: 0;
-	float: none;
-	display: block;
-	clear: both;
-}

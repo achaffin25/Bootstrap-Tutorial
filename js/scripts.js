@@ -7,6 +7,13 @@ $(document).ready(function(){
 	});
 
 	$('.btn-group').button();
+	
+	
+	$('.joke').popover({
+		trigger: 'click',
+		placement: 'top'
+	
+	});
 
 
 
