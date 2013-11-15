@@ -14,6 +14,14 @@ $(document).ready(function(){
 		placement: 'top'
 	
 	});
+	
+	$('.joke').tooltip({
+		animation: true,
+		placement: 'bottom',
+		trigger: 'hover',
+		title: 'Click for the answer'
+		
+	});
 
 
 
