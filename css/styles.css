@@ -9,3 +9,12 @@ html {
 	background-image: none;
 
 }
+
+.zoom {
+	width: 600px;
+}
+
+.zoom img {
+	width: 100%;
+	display: block;
+}
